@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: lightblue;
+  height: 80%;
+}
+
+p{
+  font-family:'Times New Roman', Times, serif;
+  color: white;
+  background-color:red;
+}
+
+h1{
+  font-family:'Arial';
+  color: green;
+  background-color: yellow;
+}
+
+h2{
+  font-family:"Georgia", serif;
+  color:blue;
+  background-color: orange;
+}
+
+h3{
+  font-family:'Courier New', Courier, monospace;
+  color:purple;
+  background-color:crimson;
+}
+
+main{
+  background-color: cyan;
+}
+
+footer{
+  font-style:italic;
+  background-color: grey;
+}
+}
